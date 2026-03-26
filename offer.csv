@@ -1,0 +1,31 @@
+id,candidate_id,job_requisition_id,generated_at,accepted_at,declined_at,status,comments
+1b0aa39f-31a4-4021-a144-1f17015d4395,87cce8f9-36ad-432e-baef-6e5a07cd1c1f,507a3f78-b6eb-43c2-a1d6-18bd902c713d,2024-08-10,NULL,2024-08-10,Declined,
+2c8895d0-7b3c-4c1f-b5ed-39ffb9dbab03,6f857305-3e4b-4b4a-9b8c-0a3f1311b798,c1a3ddd0-6141-4e2a-9a79-61f563acc885,2024-01-12,NULL,NULL,Withdrawn,
+2d3ee9f1-2eb8-43c4-96b0-eb54916929ad,e728170b-8a58-4880-9cb1-eddceb4197be,a1472a00-cf8a-474e-ad25-9d8b87354d2b,2024-01-03,NULL,NULL,Withdrawn,
+31506a7a-4f09-48f0-b82d-c01b8544c11d,8946b4a0-d1df-4da5-98f6-4bd0b1001f07,afe35574-b1dd-4c2d-9d12-b1e914dc50b8,2024-05-08,NULL,NULL,Withdrawn,"Competitive package"
+3c7c6673-4b00-4d08-bb04-3970e027b4bb,38108624-bd6a-41c2-a113-7a74c43d6820,507a3f78-b6eb-43c2-a1d6-18bd902c713d,2023-12-13,NULL,2023-12-13,Declined,"Competitive package"
+3cebe5ef-ecc2-4b45-9d3f-5699accf0f09,b6c62436-5370-41fe-88f4-5a1d1ee646e5,deae4536-b7e5-4e23-822d-a0c295751f98,2023-04-04,NULL,NULL,Withdrawn,"Competitive package"
+3eada703-1869-4fa3-9c32-0df860de59de,25f5af5e-c903-43bf-944c-908d32ed8a14,507a3f78-b6eb-43c2-a1d6-18bd902c713d,2024-10-17,NULL,NULL,Withdrawn,"Competitive package"
+44738211-017e-4e26-9490-1f5ce4895c64,ef14bbdc-5693-40d4-975e-3ae84a0d2568,27d77499-357a-4abd-b970-cfc149e17adf,2024-09-12,NULL,2024-09-12,Declined,
+71ef1bac-ef27-4b6a-812a-bb1640d7698b,331b7c19-1c0a-4a9e-8d72-29761b00d51d,f64cc15a-45db-4ba5-8247-4ef798e3bad8,2025-10-01,NULL,NULL,Withdrawn,"Relocation offered"
+75ab13e0-2d28-4106-ad38-ba4f13af7c6a,53309210-bbc7-478d-b29f-700c380b2b2e,57de6d64-d04e-4585-ab5a-bf30b2439d81,2024-09-23,NULL,2024-09-23,Declined,"Negotiation ongoing"
+83f85e07-db1a-4d00-b909-af198e7fc681,98818bb0-1db9-4993-984c-c13ff009a8f2,ba595a31-faec-47f6-82fc-de97ad2bddd5,2025-02-03,NULL,NULL,Withdrawn,
+9079d541-b254-4f96-8edd-117a48f211b5,87cce8f9-36ad-432e-baef-6e5a07cd1c1f,eb75a41f-4a54-4561-962e-90ebf9708507,2023-04-10,NULL,NULL,Pending,
+9b03a9a4-065f-4779-a9a3-88fa2d8cf52b,d6c35115-91b9-4bf3-b13c-172b859fc3a3,7fba9b30-65ba-40f7-8b18-b8b56d85b8cc,2023-11-02,NULL,NULL,Withdrawn,"Negotiation ongoing"
+a3a20c48-c452-4c5a-b622-3c55eea98922,25f5af5e-c903-43bf-944c-908d32ed8a14,f64cc15a-45db-4ba5-8247-4ef798e3bad8,2025-09-08,2025-09-08,NULL,Accepted,"Competitive package"
+ab25d078-a73d-483c-b3d4-93897ee21926,d5345435-728a-4664-af39-c9e4a2b936c7,27d77499-357a-4abd-b970-cfc149e17adf,2023-08-29,2023-08-29,NULL,Accepted,"Relocation offered"
+af6b0095-c6b4-4cab-ba4e-b63ed64fc6d0,ca186fef-9ae4-4289-814e-d47c577caab5,d84af4ef-e7e8-4c40-9213-0999b070a6fe,2025-01-29,NULL,NULL,Withdrawn,
+b4e7a5a2-ae37-43cf-8857-9b25752f4df7,8946b4a0-d1df-4da5-98f6-4bd0b1001f07,da1c59fa-f456-40e4-a4a9-9ff1b20e1a92,2025-10-19,2025-10-19,NULL,Accepted,"Negotiation ongoing"
+b50f5c95-21a7-4567-bf98-a941622a6ee1,b9d03d15-5ded-4625-a265-b8f57760369b,77d8115f-d264-439f-ab01-7fe2596fe593,2025-08-06,2025-08-06,NULL,Accepted,
+b9923560-6be9-42a4-85bf-278037ceabeb,e8d302e8-9b48-4742-90d1-0075b658ca16,7fba9b30-65ba-40f7-8b18-b8b56d85b8cc,2025-12-21,NULL,NULL,Withdrawn,"Competitive package"
+bc4225dc-b7f9-4624-a790-5b129f39288a,8946b4a0-d1df-4da5-98f6-4bd0b1001f07,0625d70d-c920-46e5-880a-28dd71936595,2024-02-21,NULL,2024-02-21,Declined,"Negotiation ongoing"
+bcf62030-567a-497f-b549-03d22602e53f,53309210-bbc7-478d-b29f-700c380b2b2e,507a3f78-b6eb-43c2-a1d6-18bd902c713d,2023-04-16,2023-04-16,NULL,Accepted,"Negotiation ongoing"
+c3ef7f9a-783d-40eb-b181-5dd83c3b5dcf,704db74e-1f7e-462f-ab1c-86d11244f155,0625d70d-c920-46e5-880a-28dd71936595,2025-03-23,2025-03-23,NULL,Accepted,"Competitive package"
+c9f8f3d7-2f1c-4a85-8492-2b988e1426b9,e8d302e8-9b48-4742-90d1-0075b658ca16,deae4536-b7e5-4e23-822d-a0c295751f98,2025-02-18,NULL,2025-02-18,Declined,"Relocation offered"
+ccf43aee-b44f-4055-8607-d235e7994a7c,98818bb0-1db9-4993-984c-c13ff009a8f2,c1a3ddd0-6141-4e2a-9a79-61f563acc885,2023-01-25,NULL,NULL,Withdrawn,
+d45c7053-7e38-4e3d-9e69-6511070b4125,b6c62436-5370-41fe-88f4-5a1d1ee646e5,22e3d3f7-9542-4285-b056-d1d0c8e8f196,2025-08-12,NULL,NULL,Withdrawn,
+dd969319-a313-4bd2-894e-7d77881705be,8946b4a0-d1df-4da5-98f6-4bd0b1001f07,7991a782-2e92-43aa-aeb6-cf28e8843216,2023-05-30,NULL,NULL,Pending,"Competitive package"
+e3f2e65c-f04e-4712-be88-855eedc9d7b1,e1d80291-d05d-4bf3-a084-a238b7c5bd9f,21bdbd2f-c6bf-454f-9c8e-ad8211147394,2024-11-06,2024-11-06,NULL,Accepted,"Competitive package"
+f4d206ab-f94f-4b2d-a563-55fa46e69063,67ed7812-bf5b-4fb4-9a57-a1f55212b9fe,21bdbd2f-c6bf-454f-9c8e-ad8211147394,2024-06-18,NULL,NULL,Pending,"Relocation offered"
+f5c4d6ca-e5c1-4f35-a0bc-654e06772557,7eb83b44-75fa-4844-b183-32ce087fda59,21bdbd2f-c6bf-454f-9c8e-ad8211147394,2023-05-20,2023-05-20,NULL,Accepted,"Competitive package"
+f8a07f67-ccdd-4dcb-a666-13fdd52fbdc9,1f526662-4163-4477-be4c-2a767473fca3,57de6d64-d04e-4585-ab5a-bf30b2439d81,2025-09-26,NULL,NULL,Withdrawn,
